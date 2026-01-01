@@ -3,7 +3,7 @@
 **Intelligent Financial Reconciliation & Anomaly Detection using Google Gemini**
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Python](https://img.shields.io/badge/Python-3.12+-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red)
 ![Gemini](https://img.shields.io/badge/AI-Google_Gemini-orange)
 ![LangChain](https://img.shields.io/badge/LangChain-1.0+-blue)
